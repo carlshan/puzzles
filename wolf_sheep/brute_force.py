@@ -113,6 +113,18 @@ def update_all_cells(positions, board):
         update_col(pos, board)
         update_diag(pos, board)
 
+
+def pretty_format(positions, board):
+    """
+    Prints the board to reveal where the wolves are placed.
+    """
+
+    # TODO: This is still pretty ugly.
+    str_board = np.array(board, dtype=str)
+    for pos in positions:
+        str_board[pos] = 'Q'
+    return str_board
+
 rows = range(0, 5)
 cols = range(0, 5)
 
@@ -150,4 +162,4 @@ if __name__ == "__main__":
     if not DEBUG:
         positions, board = main()
         print(positions)
-        print(board)
+        print(pretty_format(positions, board))
