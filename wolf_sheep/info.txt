@@ -1,0 +1,6 @@
+The puzzle:
+
+There are 5 wolves on a 5x5 chess board.
+Each wolf can move like a chess queen.
+
+Find the positions of the wolves such that you can also place 3 sheep in non-threatened squares.
