@@ -29,6 +29,7 @@ def pick_empty_position(board, rows, cols):
         test_pos = (random.choice(rows), random.choice(cols))
         if is_empty(test_pos, board):
             pos = test_pos
+            board[test_pos] = 1
     return pos
 
 
@@ -122,34 +123,25 @@ def pretty_format(positions, board):
     Prints the board to reveal where the wolves are placed.
     """
 
-    # TODO: This is still pretty ugly.
+    # TODO: This is still pretty ugly. I should pretty-fy it.
     str_board = np.array(board, dtype=str)
     for pos in positions:
         str_board[pos] = 'Q'
     return str_board
 
-rows = range(0, 5)
-cols = range(0, 5)
-
 
 def main():
     SUCCESS = False
     loop = 0
-    while not SUCCESS:
-        # Picks 5 different positions for the Queen
-        board = np.zeros(shape=(5, 5))
-        pos1 = pick_empty_position(board, rows, cols)
-        update_cell(pos1, board)
-        pos2 = pick_empty_position(board, rows, cols)
-        update_cell(pos2, board)
-        pos3 = pick_empty_position(board, rows, cols)
-        update_cell(pos3, board)
-        pos4 = pick_empty_position(board, rows, cols)
-        update_cell(pos4, board)
-        pos5 = pick_empty_position(board, rows, cols)
-        update_cell(pos5, board)
+    rows = range(0, 5)
+    cols = range(0, 5)
 
-        positions = [pos1, pos2, pos3, pos4, pos5]
+    while not SUCCESS:
+        board = np.zeros(shape=(5, 5))
+        positions = []
+        # Picks 5 different positions for the Queen
+        for i in range(0, 5):
+            positions.append(pick_empty_position(board, rows, cols))
 
         # Updates each of the rows, columns and diags for each queen
         update_all_cells(positions, board)
