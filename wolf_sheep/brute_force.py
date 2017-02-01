@@ -33,15 +33,6 @@ def pick_empty_position(board, rows, cols):
     return pos
 
 
-def eval_conds(pos1, pos2, pos3, pos4, pos5):
-    cond1 = pos1 == (-1, -1)
-    cond2 = pos2 == (-1, -1)
-    cond3 = pos3 == (-1, -1)
-    cond4 = pos4 == (-1, -1)
-    cond5 = pos5 == (-1, -1)
-    return cond1, cond2, cond3, cond4, cond5
-
-
 def evaluate_board(board, n):
     """
     Returns the total 0s in the board
@@ -52,15 +43,17 @@ def evaluate_board(board, n):
     return success, total_0s
 
 
-def update_cell(pos, board):
-    board[pos] = 1
-
-
 def update_row(pos, board):
+    """
+    Fills in the row of a position
+    """
     board[pos[0], :] = 1
 
 
 def update_col(pos, board):
+    """
+    Fills in the col of a position
+    """
     board[:, pos[1]] = 1
 
 
@@ -98,7 +91,7 @@ def update_top_right(row, col, board):
 
 def update_diag(pos, board):
     """
-    Updates diagonals
+    Updates diagonals of a position
     """
     row = pos[0]
     col = pos[1]
@@ -152,6 +145,7 @@ def main():
         print("Round {}: {}".format(loop, total_0s))
 
     return positions, board
+
 
 if __name__ == "__main__":
     if not DEBUG:
