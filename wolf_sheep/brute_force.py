@@ -13,7 +13,7 @@ import random
 DEBUG = False
 
 
-def is_empty(board, pos):
+def is_empty(pos, board):
     """
     Checks if a board position is empty.
     """
@@ -21,10 +21,13 @@ def is_empty(board, pos):
 
 
 def pick_empty_position(board, rows, cols):
+    """
+    Finds an empty position and fills it in
+    """
     pos = None
     while not pos:
         test_pos = (random.choice(rows), random.choice(cols))
-        if is_empty(board, test_pos):
+        if is_empty(test_pos, board):
             pos = test_pos
     return pos
 
