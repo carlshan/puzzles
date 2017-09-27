@@ -1,7 +1,7 @@
 """
 Puzzle:
 Find an arrangement on a 5x5 board where you can put 5 queens and have at least
-3 empty spots.
+3 spots that are not under attack by a queen.
 
 This solution is a brute force method of finding the position of the board that
 satisfies the above conditions.
@@ -58,6 +58,9 @@ def update_col(pos, board):
 
 
 def update_bottom_left(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -66,6 +69,9 @@ def update_bottom_left(row, col, board):
 
 
 def update_bottom_right(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -74,6 +80,9 @@ def update_bottom_right(row, col, board):
 
 
 def update_top_left(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -82,6 +91,9 @@ def update_top_left(row, col, board):
 
 
 def update_top_right(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
