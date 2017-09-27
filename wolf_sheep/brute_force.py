@@ -119,11 +119,25 @@ def pretty_format(positions, board):
     # TODO: This is still pretty ugly. I should pretty-fy it.
     str_board = np.array(board, dtype=str)
     for pos in positions:
-        str_board[pos] = 'Q'
+        str_board[pos] = ' Q '
     return str_board
 
+def replace_with_char(board, char):
+    """
+    This just replaces 1.0 and 0.0 with the value char
+    """
+    for row in board:
+        for index in range(0, len(row)):
+            value = row[index]
+            if value != ' Q ':
+                row[index] = ' X '
+    return board
 
 def main():
+    """
+    This does the main searching over all the positions.
+    TODO: Make this less random to actually brute force things.
+    """
     SUCCESS = False
     loop = 0
     rows = range(0, 5)
@@ -150,5 +164,10 @@ def main():
 if __name__ == "__main__":
     if not DEBUG:
         positions, board = main()
-        print(positions)
-        print(pretty_format(positions, board))
+        pretty_positions = ', '.join(map(lambda tup: str(tup), positions))
+        print("The positions of the five wolves are: " + pretty_positions)
+        pretty_board = pretty_format(positions, board)
+        print('---'*8)
+        for row in replace_with_char(pretty_board, 'X'):
+            print('| '  + ' '.join(row) + ' |')
+        print('---'*8)
