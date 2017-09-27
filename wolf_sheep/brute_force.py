@@ -10,8 +10,6 @@ satisfies the above conditions.
 import numpy as np
 import random
 
-DEBUG = False
-
 
 def is_empty(pos, board):
     """
@@ -35,7 +33,16 @@ def pick_empty_position(board, rows, cols):
 
 def evaluate_board(board, n):
     """
-    Returns the total 0s in the board
+    Params:
+        board : list
+            a board
+        n : int
+            the number of 0s that constitute a solution to the puzzle
+    Returns:
+        success : bool
+            whether there are more than N spaces not under attack
+        total_0s : int
+            the total 0s in the board
     """
     size = board.size
     success = size - board.sum() >= n
@@ -115,7 +122,7 @@ def update_diag(pos, board):
 
 def update_all_cells(positions, board):
     """
-    Updates all cells of the board based on the positions
+    Updates all cells of the board based on the positions of the wolves
     """
     for pos in positions:
         update_row(pos, board)
@@ -125,7 +132,7 @@ def update_all_cells(positions, board):
 
 def pretty_format(positions, board):
     """
-    Prints the board to reveal where the wolves are placed.
+    Formats and prints the board to reveal where the wolves are placed.
     """
 
     # TODO: This is still pretty ugly. I should pretty-fy it.
@@ -136,7 +143,8 @@ def pretty_format(positions, board):
 
 def replace_with_char(board, char):
     """
-    This just replaces 1.0 and 0.0 with the value char
+    This just replaces all positions of the board where there are no wolves
+    with whatever value char is specified to be.
     """
     for row in board:
         for index in range(0, len(row)):
@@ -145,11 +153,12 @@ def replace_with_char(board, char):
                 row[index] = ' X '
     return board
 
+
 def main():
     """
-    This does the main searching over all the positions.
-    TODO: Make this less random to actually brute force things.
+    This is the main function that conducts the searching over all positions.
     """
+    # TODO: Make this less random to actually brute force things.
     SUCCESS = False
     loop = 0
     rows = range(0, 5)
@@ -174,12 +183,13 @@ def main():
 
 
 if __name__ == "__main__":
-    if not DEBUG:
-        positions, board = main()
-        pretty_positions = ', '.join(map(lambda tup: str(tup), positions))
-        print("The positions of the five wolves are: " + pretty_positions)
-        pretty_board = pretty_format(positions, board)
-        print('---'*8)
-        for row in replace_with_char(pretty_board, 'X'):
-            print('| '  + ' '.join(row) + ' |')
-        print('---'*8)
+    positions, board = main()
+    pretty_positions = ', '.join(map(lambda tup: str(tup), positions))
+
+    # Printing everything nicely
+    print("The positions of the five wolves are: " + pretty_positions)
+    pretty_board = pretty_format(positions, board)
+    print('---'*8)
+    for row in replace_with_char(pretty_board, 'X'):
+        print('| '  + ' '.join(row) + ' |')
+    print('---'*8)
