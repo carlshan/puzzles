@@ -115,7 +115,6 @@ def pretty_format(positions, board):
     """
     Prints the board to reveal where the wolves are placed.
     """
-
     # TODO: This is still pretty ugly. I should pretty-fy it.
     str_board = np.array(board, dtype=str)
     for pos in positions:
