@@ -1,7 +1,7 @@
 """
 Puzzle:
 Find an arrangement on a 5x5 board where you can put 5 queens and have at least
-3 empty spots.
+3 spots that are not under attack by a queen.
 
 This solution is a brute force method of finding the position of the board that
 satisfies the above conditions.
@@ -9,8 +9,6 @@ satisfies the above conditions.
 
 import numpy as np
 import random
-
-DEBUG = False
 
 
 def is_empty(pos, board):
@@ -35,7 +33,16 @@ def pick_empty_position(board, rows, cols):
 
 def evaluate_board(board, n):
     """
-    Returns the total 0s in the board
+    Params:
+        board : list
+            a board
+        n : int
+            the number of 0s that constitute a solution to the puzzle
+    Returns:
+        success : bool
+            whether there are more than N spaces not under attack
+        total_0s : int
+            the total 0s in the board
     """
     size = board.size
     success = size - board.sum() >= n
@@ -58,6 +65,9 @@ def update_col(pos, board):
 
 
 def update_bottom_left(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -66,6 +76,9 @@ def update_bottom_left(row, col, board):
 
 
 def update_bottom_right(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -74,6 +87,9 @@ def update_bottom_right(row, col, board):
 
 
 def update_top_left(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -82,6 +98,9 @@ def update_top_left(row, col, board):
 
 
 def update_top_right(row, col, board):
+    """
+    Updates recursively until the board ends.
+    """
     if row > 4 or col > 4 or row < 0 or col < 0:
         return
     else:
@@ -103,7 +122,7 @@ def update_diag(pos, board):
 
 def update_all_cells(positions, board):
     """
-    Updates all cells of the board based on the positions
+    Updates all cells of the board based on the positions of the wolves
     """
     for pos in positions:
         update_row(pos, board)
@@ -113,16 +132,32 @@ def update_all_cells(positions, board):
 
 def pretty_format(positions, board):
     """
-    Prints the board to reveal where the wolves are placed.
+    Formats and prints the board to reveal where the wolves are placed.
     """
     # TODO: This is still pretty ugly. I should pretty-fy it.
     str_board = np.array(board, dtype=str)
     for pos in positions:
-        str_board[pos] = 'Q'
+        str_board[pos] = ' Q '
     return str_board
+
+def replace_with_char(board, char):
+    """
+    This just replaces all positions of the board where there are no wolves
+    with whatever value char is specified to be.
+    """
+    for row in board:
+        for index in range(0, len(row)):
+            value = row[index]
+            if value != ' Q ':
+                row[index] = ' X '
+    return board
 
 
 def main():
+    """
+    This is the main function that conducts the searching over all positions.
+    """
+    # TODO: Make this less random to actually brute force things.
     SUCCESS = False
     loop = 0
     rows = range(0, 5)
@@ -147,7 +182,13 @@ def main():
 
 
 if __name__ == "__main__":
-    if not DEBUG:
-        positions, board = main()
-        print(positions)
-        print(pretty_format(positions, board))
+    positions, board = main()
+    pretty_positions = ', '.join(map(lambda tup: str(tup), positions))
+
+    # Printing everything nicely
+    print("The positions of the five wolves are: " + pretty_positions)
+    pretty_board = pretty_format(positions, board)
+    print('---'*8)
+    for row in replace_with_char(pretty_board, 'X'):
+        print('| '  + ' '.join(row) + ' |')
+    print('---'*8)
