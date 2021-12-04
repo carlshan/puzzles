@@ -1,14 +1,15 @@
 import scala.io.Source
 import scala.collection.mutable.ListBuffer
 
+val wire1Name = "./wire1.in"
+val wire2Name = "./wire2.in"
+
+
 def getInstruc(instruc: String) : (Char, Int) = {
   val dir = instruc.head
   val value = instruc.tail.toInt
   (dir, value)
 }
-
-val wire1Name = "./wire1.in"
-val wire2Name = "./wire2.in"
 
 // val wire1Name = "./test1.in"
 // val wire2Name = "./test2.in"

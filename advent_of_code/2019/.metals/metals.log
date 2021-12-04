@@ -1,0 +1,917 @@
+INFO  time: initialize in 0.77s
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day1/day1.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+Dec 18, 2019 8:39:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day2/day2.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 18, 2019 9:32:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 18, 2019 9:32:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala,line-12,offset=256
+scala.reflect.internal.FatalError: no context found for source-file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala,line-12,offset=256
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+Dec 18, 2019 9:32:50 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day2/day2.scala
+Dec 18, 2019 9:32:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala,line-12,offset=250
+scala.reflect.internal.FatalError: no context found for source-file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day8/day4.scala,line-12,offset=250
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day3/day3.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.77s
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day3/day3.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day3/day3.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day3/day3.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 100, 100, 113)
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+Jan 03, 2020 6:35:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 123
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 106, 106, 121)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 106, 106, 119)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 106, 106, 119)
+Jan 03, 2020 6:37:47 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.ScalaPresentationCompiler$$Lambda$1547/2116403174.apply(Unknown Source)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess$$Lambda$1548/652417534.apply(Unknown Source)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerAccess$$Lambda$1186/1760961956.apply$mcV$sp(Unknown Source)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Jan 03, 2020 6:37:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 106, 106, 119)
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 194, 194, 207)
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 106, 106, 119)
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 112, 112, 124)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 112, 112, 124)
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in scala.collection.mutable.Map[Char,<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 164, 164, 183)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in scala.collection.mutable.Map[Char,<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 164, 164, 185)
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+Jan 03, 2020 6:52:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 440
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in (Int, Int)RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 131, 131, 141)
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day3/day3.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+Jan 03, 2020 7:01:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 650
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 862, 862, 875)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 862, 862, 875)
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+Jan 05, 2020 2:22:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1412
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in (Int, Int)RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 926, 926, 936)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 951, 951, 965)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 951, 951, 958)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 951, 951, 965)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in List[<error>]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 951, 951, 967)
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in (Int, Int)RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 956, 956, 966)
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+Jan 05, 2020 2:54:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Jan 05, 2020 2:54:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.75s
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/liyan/dev/projects/puzzles/advent_of_code/2019'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+something's wrong: no file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala in Array[String]RangePosition(file:///Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala, 3058, 3058, 3071)
+WARN  no build target: /Users/liyan/dev/projects/puzzles/advent_of_code/2019/day10/day10.scala
+WARN  no build target: 
+INFO  shutting down Metals
