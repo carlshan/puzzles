@@ -5,8 +5,9 @@ Day 19: Beacon Scanner
 """
 
 from collections import defaultdict
+from scipy.spatial.distance import pdist, cdist
 
-raw_data = open('day19.ex', 'r').read().strip().split('\n')
+raw_data = open('day19.ex3', 'r').read().strip().split('\n')
 
 def parse_raw_data(raw_data):
     """
@@ -25,35 +26,37 @@ def parse_raw_data(raw_data):
 
 data = parse_raw_data(raw_data)
 
-def convert_coord_to_list_index(coord, x_min, x_max, y_min, y_max):
+# Part 1
+def at_least_n_pairwise_distances(coords1, coords2, n):
     """
-    Given an x coordinate, return the index of the list that the coordinate is in.
-    The x cooresponds to the columns in the matrix.
-    The y cooresponds to the rows in the matrix.
+    This function returns whether the two list of coordinates have at least n elements in common.
     """
-    x, y = coord
-    row = y_max - y # TODO: consider if x and y are negative
-    col = x - x_min # TODO: I don't think this is sufficient
-    return (row, col)
+    distances1 = pdist(coords1)
+    distances2 = pdist(coords2)
+    in_common = len(set(distances1).intersection(distances2))
+    return in_common >= n, in_common
 
-def create_matrix(x_max, x_min, y_max, y_min):
+def count_num_unique_distances(data):
     """
-    Given the max and min x and y coordinates, create a matrix of zeros.
+    Returns the number of unique distances for all coordinates within each scanner.
     """
-    matrix = []
-    for _ in range(y_max - y_min + 1):
-        matrix.append(['.'] * (x_max - x_min + 1))
-    return matrix
+    total = set()
 
-def convert_to_visual(coords):
-    """
-    Given a list of coordinates, return a string representing the location of the Beacons
-    at each of the coordinates.
-    """
+    for scanner in data:
+        coords = data[scanner]
+        total = total.union(set(pdist(coords)))
 
-    x_max = max(coords, key=lambda x: x[0])[0]
-    x_min = min(coords, key=lambda x: x[0])[0]
-    y_max = max(coords, key=lambda x: x[1])[1]
-    y_min = min(coords, key=lambda x: x[1])[1]
-    temp = create_matrix(x_max, x_min, y_max, y_min)
-    return temp
+    return total
+
+
+"""
+To figure out which coords have at least 12 beacons in common, need to find the exact 12 coordinates for each scanner that they have in common.
+
+Then, from those 12 coordinates we can work out the location (with respect to the first scanner) of each other scanner.
+"""
+
+
+threshold = 11 * 12 / 2 # 12 choose 2
+
+# print(at_least_n_pairwise_distances(data[0], data[1], threshold))
+print(count_num_unique_distances(data))
