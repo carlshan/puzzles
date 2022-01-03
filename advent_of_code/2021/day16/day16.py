@@ -5,79 +5,79 @@ Day 16: Packet Decoder
 """
 
 from bitstring import BitArray
+from functools import reduce
 
-hex_str = open('day16hex.ex1').read().strip()
+hex_str = open('day16.in').read().strip()
 
 bit_str = BitArray(hex=hex_str).bin
 
-bits_to_hex = {'0000': '0',
-                '0001': '1',
-                '0010': '2',
-                '0011': '3',
-                '0100': '4',
-                '0101': '5',
-                '0110': '6',
-                '0111': '7',
-                '1000': '8',
-                '1001': '9',
-                '1010': 'A',
-                '1011': 'B',
-                '1100': 'C',
-                '1101': 'D',
-                '1110': 'E',
-                '1111': 'F'}
+# Return the sum of the version number of all packets
+# Code below from: https://www.reddit.com/r/adventofcode/comments/rhj2hm/comment/hoqvaov/
 
-hex_to_bits = {'0': '0000',
-                '1': '0001',
-                '2': '0010',
-                '3': '0011',
-                '4': '0100',
-                '5': '0101',
-                '6': '0110',
-                '7': '0111',
-                '8': '1000',
-                '9': '1001',
-                'A': '1010',
-                'B': '1011',
-                'C': '1100',
-                'D': '1101',
-                'E': '1110',
-                'F': '1111'}
-
-def handle_literal(bits, index):
-    literal = ""
+def process_literal(bits):
+    index = 0
     while True:
-        if index > len(bits):
-            break
-        elif bits[index] == '1':
-            literal += bits[index + 1 : index + 5]
+        if bits[index] == '1':
             index += 5
-        elif bits[index] == '0': # last group of bits
-            literal += bits[index + 1 : index + 5]
+        elif bits[index] == '0':
+            # Final group of bits
+            index += 5
             break
 
-    return int(literal, 2)
+    if index < len(bits): # padding remains
+        while (index + 6) % 4 != 0: # find the first group of 4
+            index += 1
+    return index
 
-def handle_operator(bits, index):
-    if bits[index] == '0':
-        total_length_in_bits = int(bits[index + 1 : index + 1 + 15], 2)
-        index += 16
-        start = index
-        while index < start + total_length_in_bits:
-            index = handle_operator(bits, index)
+total = 0
+def get_version_num_tot(bits):
+    global total
+    version_num_tot = int(bits[:3], 2)
+    total += version_num_tot
+    bits = bits[3:]
+    packet_id = int(bits[:3], 2)
+    bits = bits[3:]
+    if packet_id == 4:
+        result = ""
+        while True:
+            result += bits[1:5]
+            group = bits[0]
+            bits = bits[5:]
+            if group == '0': # last group of bits
+                break
+        return (bits, int(result, 2))
     else:
-        total_sub_packets = int(bits[1:12], 2)
-        for i in range(total_sub_packets):
-            pass # do something here
+        length_type_id = bits[0]
+        bits = bits[1:]
+        values = []
+        if length_type_id == '0':
+            length = int(bits[:15], 2)
+            bits = bits[15:]
+            sub_packets = bits[:length]
+            while sub_packets:
+                sub_packets, value = get_version_num_tot(sub_packets)
+                values.append(value)
+            bits = bits[length:]
+        else:
+            num_subpackets = int(bits[:11], 2)
+            bits = bits[11:]
+            for _ in range(num_subpackets):
+                bits, value = get_version_num_tot(bits)
+                values.append(value)
+        if packet_id == 0:
+            return (bits, sum(values))
+        elif packet_id == 1:
+            return (bits, reduce(lambda f, s: f * s, values))
+        elif packet_id == 2:
+            return (bits, min(values))
+        elif packet_id == 3:
+            return (bits, max(values))
+        elif packet_id == 5:
+            return (bits, int(values[0] > values[1]))
+        elif packet_id == 6:
+            return (bits, int(values[0] < values[1]))
+        elif packet_id == 7:
+            return (bits, int(values[0] == values[1]))
 
-
-def decode_bits(bits):
-    packet_version = int(bits[:3], 2)
-    packet_type = int(bits[3:6], 2)
-    if packet_type == 4: # this is a literal value
-        return handle_literal(bits[6:], 0)
-    else: # is an operator packet
-        return handle_operator(bits[6:], 0)
-
-
-# TODO: Finish this problem
+result = get_version_num_tot(bit_str)
+print(result)
