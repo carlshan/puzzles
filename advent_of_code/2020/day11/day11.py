@@ -78,9 +78,7 @@ def get_first_seat_in_dir(coord, seats, x_dir, y_dir):
     """
     Finds the first seat ('L' or '#') in the direction specified by x_dir and y_dir.
     """
-    x, y = coord
-    x += x_dir
-    y += y_dir
+    x, y = coord[0] + x_dir, coord[1] + y_dir
     while in_bounds((x, y), seats):
         if seats[y][x] != '.':
             return (x, y)
