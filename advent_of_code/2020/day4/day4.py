@@ -95,7 +95,7 @@ def pid(passport):
     """
     Returns True if the passport is valid.
 
-    A passport is valid if the passport ID is at least 9 digits long and
+    A passport is valid if the passport ID exactly 9 digits long and
     contains only digits.
     """
     return len(passport['pid']) == 9 and passport['pid'].isdigit()
