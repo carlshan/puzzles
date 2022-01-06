@@ -16,26 +16,27 @@ distances = {
 }
 
 
+def get_manhattan_distance(distances):
+    return abs(distances['E'] - distances['W']) + abs(distances['N'] - distances['S'])
+
+
 def execute_instructions(instructions, distances):  # part 1
     facing = ['E', 'S', 'W', 'N']
-    i = 0
-    curr = facing[i]
+    curr = 'E'
+    new_distances = distances.copy()
     for ins in instructions:
         f, dist = ins
         if f == 'F':
-            distances[curr] += dist
-        elif f == 'L':
-            i = (i - (dist // 90)) % 4
-            curr = facing[i]
-        elif f == 'R':
-            i = (i + (dist // 90)) % 4
-            curr = facing[i]
+            new_distances[curr] += dist
+        elif f in ('L', 'R'):
+            num_rotation = dist // 90 * (1 if f == 'R' else -1)
+            curr = facing[(facing.index(curr) + num_rotation) % 4]
         else:  # is E, S, W or N
-            distances[f] += dist
-    return distances
+            new_distances[f] += dist
+    return new_distances
 
-# distances = execute_instructions(directions, distances)  # part 1
-# print(get_manhattan_distance(distances))
+distances1 = execute_instructions(directions, distances)  # part 1
+print(get_manhattan_distance(distances1))
 
 waypoint = {
     'E': 10,
@@ -60,8 +61,6 @@ def rotate_waypoint(direction, amt, waypoint):
 
 def execute_instructions2(instructions, distances, waypoint):  # part 2
     facing = ['E', 'S', 'W', 'N']
-    i = 0
-    curr = facing[i]
     for ins in instructions:
         f, dist = ins
         if f == 'F':
@@ -74,9 +73,5 @@ def execute_instructions2(instructions, distances, waypoint):  # part 2
     return distances
 
 
-def get_manhattan_distance(distances):
-    return abs(distances['E'] - distances['W']) + abs(distances['N'] - distances['S'])
-
-
-distances = execute_instructions2(directions, distances, waypoint)  # part 2
-print(get_manhattan_distance(distances))
+distances2 = execute_instructions2(directions, distances, waypoint)  # part 2
+print(get_manhattan_distance(distances2))
