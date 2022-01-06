@@ -16,7 +16,7 @@ distances = {
 }
 
 
-def execute_instructions(instructions, distances):
+def execute_instructions(instructions, distances):  # part 1
     facing = ['E', 'S', 'W', 'N']
     i = 0
     curr = facing[i]
@@ -34,6 +34,8 @@ def execute_instructions(instructions, distances):
             distances[f] += dist
     return distances
 
+# distances = execute_instructions(directions, distances)  # part 1
+# print(get_manhattan_distance(distances))
 
 waypoint = {
     'E': 10,
@@ -43,7 +45,7 @@ waypoint = {
 }
 
 
-def rotate_waypoint(direction, amt, waypoint):  #  part 1
+def rotate_waypoint(direction, amt, waypoint):
     facing = ['E', 'S', 'W', 'N']
     dirs = [(way, facing.index(way)) for way in waypoint.keys()]
     num_rotation = amt // 90 * (1 if direction == 'R' else -1)
@@ -75,9 +77,6 @@ def execute_instructions2(instructions, distances, waypoint):  # part 2
 def get_manhattan_distance(distances):
     return abs(distances['E'] - distances['W']) + abs(distances['N'] - distances['S'])
 
-
-# distances = execute_instructions(directions, distances)  # part 1
-# print(get_manhattan_distance(distances))
 
 distances = execute_instructions2(directions, distances, waypoint)  # part 2
 print(get_manhattan_distance(distances))
