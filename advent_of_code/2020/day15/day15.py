@@ -3,12 +3,11 @@ Advent of Code 2020
 Author: Carl Shan
 Day 15: Rambunctious Recitation
 """
+from collections import defaultdict
 
 nums = open('day15.in', 'r').read().split(',')
 nums = [int(x) for x in nums]
 
-
-from collections import defaultdict
 
 def play_game(nums, end=2020):
     most_recent_index = defaultdict(tuple)
@@ -30,4 +29,19 @@ def play_game(nums, end=2020):
     return most_recent_num
 
 
-print(play_game(nums, 30000000))
+# The below is the same function, but optimized after reading on Reddit
+# The series of numbers being generated are called Van Eyck numbers
+def play_game_optimized(nums, end):
+    most_recent = {num: i + 1 for i, num in enumerate(nums)}
+    last = nums[-1]
+
+    for turn in range(len(nums), end):
+        most_recent[last], last = turn, turn - most_recent.get(last, turn)
+
+    return last
+
+
+part1 = 2020
+part2 = 30000000
+print(play_game_optimized(nums, part1))
+print(play_game_optimized(nums, part2))
