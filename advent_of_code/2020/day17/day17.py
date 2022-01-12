@@ -18,7 +18,8 @@ def solve(state, steps, dim=3):
     mode = 'constant'
     kernel = np.ones(shape=tuple(3 for _ in range(dim)))  # creates cube or hypercube
     kernel[tuple(1 for _ in range(dim))] = 0        # removes center
-    universe = np.zeros(shape=(*(13 for _ in range(dim - 2)), len(state) + 12, len(state) + 12), dtype=int)
+    axis_len = len(state) + 12  # padding of 6 on each side
+    universe = np.zeros(shape=tuple(axis_len for _ in range(dim)))
     universe[tuple(6 for _ in range(dim - 2))] = np.pad(state, 6)
     for _ in range(steps):
         neighbors = convolve(universe, kernel, mode=mode)
