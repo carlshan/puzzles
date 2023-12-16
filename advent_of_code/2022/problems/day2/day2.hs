@@ -31,7 +31,7 @@ convert_to_points_part1 l = snd + lose_draw_win where
     diff = snd - fst
     lose_draw_win = (mod diff 3) * 3
 
--- Part 1
+-- Part 2
 convert_to_points_part2 :: [Integer] -> Integer
 convert_to_points_part2 l = points where
     fst = head l
